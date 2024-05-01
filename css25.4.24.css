@@ -1,0 +1,22 @@
+#myinput {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 200px;
+}
+.error {
+    border: 1px solid red;
+}
+#todos li {
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+#addbutton {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#addbutton:hover {
+    background-color: #45a049;
+}
